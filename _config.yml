@@ -1,3 +1,10 @@
 theme: jekyll-theme-minima
 title: AI Notes
 description: Resources and notes to help with AI / RL Research
+
+# Add to plugins: list
+plugins:
+  - jekyll-remote-theme
+
+# set up remote_theme
+remote_theme: jekyll/minima
