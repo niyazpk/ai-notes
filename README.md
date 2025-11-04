@@ -1,5 +1,7 @@
 # AI Notes
 
+https://niyazpk.github.io/ai-notes/
+
 ### Backlog: Papers to read
 * Reading list for Rich's RL approach to AI: https://docs.google.com/document/d/1juudZLXpqMsuAXg7zGFlkRdBf8hffDzSChWkHAmJci0/edit?tab=t.0
 * The Alberta Plan for AI Research: https://arxiv.org/pdf/2208.11173
