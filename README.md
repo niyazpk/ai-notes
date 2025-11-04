@@ -10,3 +10,6 @@
   * https://www.lesswrong.com/posts/t4ZBjAjXk2NqqAqJ7/the-27-papers
   * https://www.mattprd.com/p/openai-cofounder-27-papers-read-know-90-ai
   * https://tensorlabbet.com/2024/09/24/ai-reading-list/
+
+### Blogs etc
+* https://gwern.net/index
